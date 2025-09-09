@@ -1,3 +1,0 @@
--e ../../../eng/tools/azure-sdk-tools
--e ../../network/azure-mgmt-network
-aiohttp

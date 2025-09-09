@@ -1,7 +1,0 @@
-[tool.azure-sdk-build]
-pylint = false
-pyright = false
-mypy = true
-verifytypes = false
-sphinx = false
-whl_no_aio= false
